@@ -1,5 +1,6 @@
 {
-  "name": "@zjf/pkg2",
+  "name": "@zjf/src",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zjf/pkg1": "file:..\\pkg1"
+    "@zjf/pkg1": "file:..\\packages\\pkg1",
+    "@zjf/pkg2": "file:..\\packages\\pkg2"
   }
 }

@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^3.13.2"
+    "lerna": "^3.13.2",
+    "@zjf/pkg1": "file:.\\packages\\pkg1"
   }
 }

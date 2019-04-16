@@ -1,2 +1,2 @@
-var pkg1 = require('pkg1');
+var pkg1 = require('@zjf/pkg1');
 console.log(pkg1);

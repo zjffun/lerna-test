@@ -1,0 +1,1 @@
+`lerna bootstrap` and `lerna link` can't add symlink of file spec dep?

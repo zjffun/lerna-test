@@ -9,5 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@zjf/pkg1": "^1.0.0"
   }
 }

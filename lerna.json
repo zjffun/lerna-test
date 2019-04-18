@@ -2,9 +2,5 @@
   "packages": [
     "packages/*"
   ],
-<<<<<<< HEAD
   "version": "1.0.0"
-=======
-  "version": "1.0.1"
->>>>>>> 0050a5cc32750ff41f7b0337ef495b6c26215893
 }

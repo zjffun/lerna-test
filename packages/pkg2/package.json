@@ -1,6 +1,6 @@
 {
   "name": "@zjf/pkg2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zjf/pkg1": "^1.0.0"
+    "@zjf/pkg1": "^1.0.1"
   }
 }

@@ -1,15 +1,14 @@
 {
-  "name": "@zjf/pkg2",
+  "name": "@zjf/pkg3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo pkg2",
+    "build": "echo pkg3",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zjf/pkg1": "^1.0.0"
   }
 }
